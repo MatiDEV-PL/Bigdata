@@ -1,0 +1,11 @@
+# Creation of the new virtual environment with Python 3.13
+conda create -n bigdata26 python=3.13
+
+# Activation of the new environment
+conda activate bigdata26
+
+# Installation of the Jupyter Notebook
+pip install notebook
+
+# Installation of the NumPy package
+pip install numpy
